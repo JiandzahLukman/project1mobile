@@ -8,4 +8,5 @@ void main() {
   print(
     "nama saya $name\n umur saya $age tahun\n tinggi saya $height cm\n berat saya $weight kg\n NPM saya $NPM",
   );
+  
 }
